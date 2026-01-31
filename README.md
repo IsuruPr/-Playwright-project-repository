@@ -9,7 +9,7 @@ A comprehensive Playwright test automation suite for validating Singlish to Sinh
 **Test Language:** JavaScript  
 **Test Coverage:** 
 - 24 Positive Test Cases (happy path scenarios)
-- 7 Negative Test Cases (robustness validation)
+- 10 Negative Test Cases (robustness validation)
 - 1 UI Behavior Test (real-time updates)
 
 ## Features
